@@ -3,8 +3,8 @@
 Driver drowsiness detection using CNN model and OpenCV.
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Github All Releases](https://img.shields.io/github/downloads/ankitkumar174/Car-Damage-Detective-Web-App/total.svg)]()
-![Contributors](https://img.shields.io/github/contributors/kuwarkapur/car-damage-detection?color=dark-green) ![Issues](https://img.shields.io/github/issues/kuwarkapur/car-damage-detection)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Github All Releases](https://img.shields.io/github/downloads/ankitkumar174/Driver-drowsiness-detection-and-alerting/total.svg)]()
+![Contributors](https://img.shields.io/github/contributors/ankitkumar174/Driver-drowsiness-detection-and-alerting?color=dark-green) ![Issues](https://img.shields.io/github/issues/ankitkumar174/Driver-drowsiness-detection-and-alerting)
 
 
 
